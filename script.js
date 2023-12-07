@@ -1,4 +1,4 @@
-var professions = ["Web Developer.", "Programmer.", "Web Designer."];
+var professions = ["Web Developer.", "Programmer."];
 var currentProfessionIndex = 0;
 
 function changeProfession() {

@@ -64,11 +64,11 @@
 }
 #button{
   background-color:aqua;
-  color: black;
+  color: white;
   font-weight: 400;
 }
 #button:hover{
-  box-shadow: 0px 0px 5px 7px rgb(147, 255, 128);
+  box-shadow: 0px 0px 5px 7px rgb(149, 255, 250); 
   background-color:white;
   color: black;
 }
@@ -78,4 +78,9 @@
 }
 .ft:hover{
   color: blue;
+}
+.logo-f:hover{
+  transform: rotateY(360deg);
+  transition: transform 0.9s;
+
 }
