@@ -82,5 +82,4 @@
 .logo-f:hover{
   transform: rotateY(360deg);
   transition: transform 0.9s;
-
 }
